@@ -1,0 +1,23 @@
+h1{
+        background-color: blueviolet; color: crimson;
+    }
+h3{
+        color: crimson;
+    }
+p{
+        
+    }
+body { background-color: aquamarine; color: crimson;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.eb-garamond{
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight:600;
+    font-style: normal;
+}
+.skill-card {
+    border: 15px solid rgb(226, 116, 43);
+    padding: 2px;
+}
