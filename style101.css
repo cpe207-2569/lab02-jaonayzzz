@@ -1,14 +1,18 @@
-h1{
-        background-color: blueviolet; color: crimson;
+h1{ 
+        background-color: rgba(255, 222, 116, 0.663); color: crimson;
     }
 h3{
         color: crimson;
     }
-p{
-        
-    }
+
 body { background-color: aquamarine; color: crimson;
         font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.skill-card {
+    border: 15px solid rgba(255, 137, 59, 0.838);
+    padding: 2px;
+    width: 500px ;
+    margin: 0 auto;
 }
 
 .eb-garamond{
@@ -17,7 +21,76 @@ body { background-color: aquamarine; color: crimson;
     font-weight:600;
     font-style: normal;
 }
-.skill-card {
-    border: 15px solid rgb(226, 116, 43);
-    padding: 2px;
+.fahkwang-extralight {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 200;
+    font-style: normal;
 }
+
+.fahkwang-light {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.fahkwang-regular {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.fahkwang-medium {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.fahkwang-semibold {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.fahkwang-bold {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.fahkwang-extralight-italic {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.fahkwang-light-italic {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.fahkwang-regular-italic {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.fahkwang-medium-italic {
+    -family: "Fahkwang", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.fahkwang-semibold-italic {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.fahkwang-bold-italic {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+
